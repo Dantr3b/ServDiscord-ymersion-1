@@ -15,4 +15,4 @@ class MyClient(discord.Client):
 intents = discord.Intents.default()
 intents.message_content = True
 client = MyClient(intents=intents)
-client.run('1154767346121060403')
+client.run('MTE1NDc2NzM0NjEyMTA2MDQwMw.G5X95G.Hj89qS7tdiRWfxytvlLVZWFV-Vn20TDNeWaYUc')
